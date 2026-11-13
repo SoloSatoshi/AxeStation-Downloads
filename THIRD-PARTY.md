@@ -25,7 +25,7 @@ Complete notices are in [licenses](licenses/) and inside every app download.
 
 ## Corresponding library sources
 
-[Download the third-party source bundle](https://github.com/SoloSatoshi/AxeStation-Downloads/releases/download/v1.4.0/AxeStation-Third-Party-Sources.zip).
+[Download the third-party source bundle](https://github.com/SoloSatoshi/AxeStation-Downloads/releases/download/v1.5.1/AxeStation-Third-Party-Sources.zip).
 The [source manifest](open-source/sources.json) lists exact upstream versions,
 URLs, filenames, sizes and SHA-256 checksums. The bundle includes complete,
 unmodified upstream archives for the Qt modules, Qt for Python, Python runtime

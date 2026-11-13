@@ -11,11 +11,11 @@ Made by [Solo Satoshi](https://www.solosatoshi.com/).
 
 | Windows | Mac |
 | :--- | :--- |
-| **[Download for Windows x64](https://github.com/SoloSatoshi/AxeStation-Downloads/releases/download/v1.4.0/AxeStation-1.4.0-Windows-x64.zip)** | **[Download for Apple Silicon](https://github.com/SoloSatoshi/AxeStation-Downloads/releases/download/v1.4.0/AxeStation-1.4.0-macOS-AppleSilicon.zip)** |
+| **[Download for Windows x64](https://github.com/SoloSatoshi/AxeStation-Downloads/releases/download/v1.5.1/AxeStation-1.5.1-Windows-x64.zip)** | **[Download for Apple Silicon](https://github.com/SoloSatoshi/AxeStation-Downloads/releases/download/v1.5.1/AxeStation-1.5.1-macOS-AppleSilicon.zip)** |
 | Windows 10 or 11, 64-bit | macOS 13 or later, M-series Mac |
 | Extract the entire ZIP, then open `AxeStation.exe`. Keep the folder together. | Extract the ZIP, then move `AxeStation.app` to Applications. |
 
-**Version 1.4.0** · [All releases, checksums and manifests](https://github.com/SoloSatoshi/AxeStation-Downloads/releases)
+**Version 1.5.1** · [All releases, checksums and manifests](https://github.com/SoloSatoshi/AxeStation-Downloads/releases)
 
 Windows binaries are unsigned. The Mac application is ad-hoc signed and is not
 Apple notarized. Your operating system may require explicit approval to open it.
@@ -35,16 +35,24 @@ is available. Allow Wi-Fi, location and local-network permissions when requested
 Location permission lets the operating system reveal Wi-Fi names; AxeStation
 does not collect location coordinates.
 
+Set **Expected miners** to keep searching for the full group, up to two minutes.
+Use **Cancel** to end a scan and keep its results. Recent sightings are marked
+while waiting for restarting miners to reappear. **Clear list** removes those
+results and search targets without disconnecting or changing a miner.
+
 ## One workspace, six tabs
 
 | Tab | What it does |
 | --- | --- |
 | Setup | Connect miners, set acceptance limits and choose warm-up and monitoring time. |
 | Firmware | Match devices to official AxeOS or Nerd*OS releases and update selected miners over OTA. |
-| Monitor | View 30-second averages, search multiple IPs, clear shop Wi-Fi and diagnose retained failed miners. |
-| Reports | Review pass/fail reasons, open the batch test PDF or individual diagnostic PDFs. |
+| Reports | Watch test progress, review pass/fail reasons, and open PDFs with miner IP addresses. |
+| Monitor | View watts and 30-second averages, search multiple IPs, clear shop Wi-Fi and diagnose retained failed miners. |
 | Settings | Choose preferences, check for application updates and find license information. |
 | Logs | Inspect and copy the current session's troubleshooting log. |
+
+Drag tabs to arrange your workspace for the session. **Reports** opens once all
+selected miners have joined the shop network so you can follow their tests.
 
 **Keep online** defaults to **Failed**: failing miners stay connected for
 troubleshooting, while passing miners have shop Wi-Fi cleared. Select **Passed**
@@ -57,8 +65,8 @@ limits use the highest reported reading. Hardware and protection faults also
 fail the test. Missing measurements are shown as unavailable, never invented.
 
 Diagnostics collect one device's overall and per-chip performance for a chosen
-duration. Open **View live** to follow the charts; closing the viewer leaves the
-capture running. Each capture produces its own PDF. Chip temperatures appear
+duration. Open **View live** to follow each miner in a separate window; multiple
+windows can stay open together. Closing a viewer leaves its capture running. Each capture produces its own PDF. Chip temperatures appear
 only when the firmware actually reports them.
 
 ## Screenshots
