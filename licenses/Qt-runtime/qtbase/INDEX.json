@@ -1,0 +1,158 @@
+[
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/D3D12MemoryAllocator/LICENSE.txt",
+    "notice": "8c04bffd6f06-LICENSE.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/VulkanMemoryAllocator/LICENSE.txt",
+    "notice": "3c5dd4a8cdcb-LICENSE.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/android/LICENSE",
+    "notice": "3d0ba0676a12-LICENSE"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/blake2/COPYING",
+    "notice": "001098443d7d-COPYING"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/double-conversion/LICENSE",
+    "notice": "42301cdd756f-LICENSE"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/easing/LICENSE",
+    "notice": "5e9d5baf1863-LICENSE"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/forkfd/LICENSE",
+    "notice": "783a520ffc18-LICENSE"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/freetype/LICENSE.txt",
+    "notice": "b855159162aa-LICENSE.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/gradle/LICENSE",
+    "notice": "e98427b00cc0-LICENSE"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/harfbuzz-ng/COPYING",
+    "notice": "e5b76f4c4720-COPYING"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/icc/LICENSE.txt",
+    "notice": "3bc480cab207-LICENSE.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/libjpeg/COPYRIGHT.txt",
+    "notice": "2704aa15ed0e-COPYRIGHT.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/libjpeg/LICENSE",
+    "notice": "e598fffe61f6-LICENSE"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/libpng/LICENSE",
+    "notice": "b9ce1789a62a-LICENSE"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/libpsl/src/LICENSE.chromium",
+    "notice": "9712ac6c1390-LICENSE.chromium"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/md4c/LICENSE.md",
+    "notice": "ed3c8b7a2fc0-LICENSE.md"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/pixman/LICENSE",
+    "notice": "b5654ed6d6e4-LICENSE"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/rfc6234/LICENSE",
+    "notice": "2c5bb8314fe0-LICENSE"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/tinycbor/LICENSE",
+    "notice": "559dad7de1a5-LICENSE"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/xcb/LICENSE",
+    "notice": "6458cc009590-LICENSE"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/3rdparty/zlib/LICENSE",
+    "notice": "180d31229274-LICENSE"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/corelib/kernel/LICENSE.QEVENTDISPATCHER_CF.txt",
+    "notice": "a8b36d5d2afd-LICENSE.QEVENTDISPATCHER_CF.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/dbus/LICENSE.LIBDBUS-1.txt",
+    "notice": "c52f93a22ea6-LICENSE.LIBDBUS-1.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/gui/opengl/LICENSE.KHRONOS.txt",
+    "notice": "14b38bb78ef1-LICENSE.KHRONOS.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/gui/painting/LICENSE.QIMAGETRANSFORM.txt",
+    "notice": "5ee79b049d0b-LICENSE.QIMAGETRANSFORM.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/gui/painting/LICENSE.XCONSORTIUM.txt",
+    "notice": "b5f5d1916f8f-LICENSE.XCONSORTIUM.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/gui/rhi/LICENSE.MiniEngine.txt",
+    "notice": "7c4d7128473e-LICENSE.MiniEngine.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/gui/text/LICENSE.AGLFN.txt",
+    "notice": "ddf46a72a20f-LICENSE.AGLFN.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/gui/vulkan/LICENSE.txt",
+    "notice": "a2e7f7e7dc32-LICENSE.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/plugins/platforms/cocoa/LICENSE.COCOA.txt",
+    "notice": "903c829b6b57-LICENSE.COCOA.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/testinternal/3rdparty/cmake/Copyright.txt",
+    "notice": "b27a84f96a7d-Copyright.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/testlib/3rdparty/catch2/LICENSE.txt",
+    "notice": "7b5d3690330c-LICENSE.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/testlib/3rdparty/cycle/LICENSE.txt",
+    "notice": "1cfda469469b-LICENSE.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/testlib/3rdparty/linux/LICENSE.txt",
+    "notice": "785d813d07ca-LICENSE.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/src/testlib/3rdparty/valgrind/LICENSE.txt",
+    "notice": "9e02c6cdd894-LICENSE.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/tests/auto/corelib/serialization/qxmlstream/LICENSE.XML-Test-Suite.txt",
+    "notice": "12d90ac7c770-LICENSE.XML-Test-Suite.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/tests/manual/rhi/shared/imgui/fonts/LICENSE.txt",
+    "notice": "9763b4cce25d-LICENSE.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/tests/manual/rhi/shared/imgui/imgui/LICENSE.txt",
+    "notice": "87626f150fa4-LICENSE.txt"
+  },
+  {
+    "upstream_path": "qtbase-everywhere-src-6.11.2/util/gradientgen/LICENSE.WEBGRADIENTS.txt",
+    "notice": "ef160cbd0783-LICENSE.WEBGRADIENTS.txt"
+  }
+]

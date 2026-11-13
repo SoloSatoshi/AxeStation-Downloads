@@ -1,0 +1,10 @@
+[
+  {
+    "upstream_path": "qtsvg-everywhere-src-6.11.2/src/svg/LICENSE.XSVG.txt",
+    "notice": "b2c14b0a3141-LICENSE.XSVG.txt"
+  },
+  {
+    "upstream_path": "qtsvg-everywhere-src-6.11.2/tests/baseline/data/svg_12_testsuite/LICENSE.txt",
+    "notice": "9c0bb95dc8e3-LICENSE.txt"
+  }
+]

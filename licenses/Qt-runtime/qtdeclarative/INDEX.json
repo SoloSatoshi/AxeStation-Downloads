@@ -1,0 +1,30 @@
+[
+  {
+    "upstream_path": "qtdeclarative-everywhere-src-6.11.2/src/3rdparty/masm/LICENSE",
+    "notice": "e6bcbf06c9aa-LICENSE"
+  },
+  {
+    "upstream_path": "qtdeclarative-everywhere-src-6.11.2/src/3rdparty/yoga/LICENSE",
+    "notice": "804c77fd789c-LICENSE"
+  },
+  {
+    "upstream_path": "qtdeclarative-everywhere-src-6.11.2/src/quickcontrols/material/LICENSE.ANGULARJS.txt",
+    "notice": "6beef27df584-LICENSE.ANGULARJS.txt"
+  },
+  {
+    "upstream_path": "qtdeclarative-everywhere-src-6.11.2/tests/auto/qml/ecmascripttests/test262/LICENSE",
+    "notice": "773223004480-LICENSE"
+  },
+  {
+    "upstream_path": "qtdeclarative-everywhere-src-6.11.2/tests/manual/painterpathquickshape/LICENSE.OFL.txt",
+    "notice": "f59411689a3d-LICENSE.OFL.txt"
+  },
+  {
+    "upstream_path": "qtdeclarative-everywhere-src-6.11.2/tests/manual/quickcontrols/swipetoremove/fonts/LICENSE.txt",
+    "notice": "345b4334110f-LICENSE.txt"
+  },
+  {
+    "upstream_path": "qtdeclarative-everywhere-src-6.11.2/tests/manual/quickcontrols/testbench/fonts/LICENSE.txt",
+    "notice": "8bc1ee37dc83-LICENSE.txt"
+  }
+]

@@ -1,0 +1,21 @@
+Copyright (c) 2026 Solo Satoshi. All rights reserved.
+
+AxeStation's original application code is proprietary. This repository does not
+grant access to or redistribution rights for the original application source.
+
+Solo Satoshi grants permission to use and redistribute unmodified official
+AxeStation binary downloads, free of charge, with their licenses and notices
+intact. This permission does not grant trademark rights or permission to sell,
+misrepresent, or relicense the application.
+
+Third-party components retain their own copyrights and licenses. Those licenses
+control the third-party components. Nothing here restricts rights granted by
+those licenses, including replacing or modifying LGPL libraries and reverse
+engineering to debug modifications to those libraries. Corresponding library
+sources, notices and replacement instructions are available with the downloads.
+
+THE ORIGINAL APPLICATION IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND,
+INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NONINFRINGEMENT.
+TO THE EXTENT PERMITTED BY LAW, SOLO SATOSHI IS NOT LIABLE FOR CLAIMS OR DAMAGES
+ARISING FROM USE OF THE ORIGINAL APPLICATION. THIRD-PARTY LICENSE TERMS APPLY
+SEPARATELY TO THEIR RESPECTIVE COMPONENTS.

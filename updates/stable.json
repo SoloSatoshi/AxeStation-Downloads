@@ -1,0 +1,19 @@
+{
+  "payload": {
+    "schema": 1,
+    "version": "1.4.0",
+    "downloads": {
+      "Windows-x64": {
+        "url": "https://github.com/SoloSatoshi/AxeStation-Downloads/releases/download/v1.4.0/AxeStation-1.4.0-Windows-x64.zip",
+        "sha256": "61104368a101cab0fd6e2a54fe856219da0686435d088e45cdfea7aabe6fe1b5",
+        "bytes": 55504121
+      },
+      "macOS-AppleSilicon": {
+        "url": "https://github.com/SoloSatoshi/AxeStation-Downloads/releases/download/v1.4.0/AxeStation-1.4.0-macOS-AppleSilicon.zip",
+        "sha256": "d4ae0e2e799595ffd38a673b665c9c5864d713b0702b8dc13da1f2d19f5e9ae9",
+        "bytes": 41636609
+      }
+    }
+  },
+  "signature": "0RAHJBvhXFJPTXhlm592WKr992gDr4LX5xca6Dwez9bEZVRrzVyiTuPGg6b1wO8BN0mOD94anoDSBN4QtY7zCQ=="
+}

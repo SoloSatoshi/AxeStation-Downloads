@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="AxeStation black widow spider">
+  <rect x="24" y="24" width="976" height="976" rx="190" fill="#000"/>
+  <g fill="none" stroke="#fff" stroke-width="34" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M478 405 365 310 325 168M546 405 659 310 699 168"/>
+    <path d="M465 431 312 380 180 260M559 431 712 380 844 260"/>
+    <path d="M463 465 295 485 152 565M561 465 729 485 872 565"/>
+    <path d="M480 492 354 626 278 820M544 492 670 626 746 820"/>
+  </g>
+  <g fill="#fff">
+    <ellipse cx="512" cy="620" rx="124" ry="163"/>
+    <ellipse cx="512" cy="434" rx="61" ry="78"/>
+    <ellipse cx="512" cy="350" rx="39" ry="36"/>
+  </g>
+  <path d="M463 552H561L512 615 561 681H463L512 615Z" fill="#000"/>
+</svg>

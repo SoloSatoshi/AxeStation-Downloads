@@ -1,0 +1,100 @@
+AxeStation third-party components
+
+AxeStation uses unmodified third-party libraries. Their own licenses apply.
+The included license texts and upstream source links are provided below.
+
+PySide6 6.11.2
+License: LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only
+Homepage, https://pyside.org
+Documentation, https://doc.qt.io/qtforpython
+Repository, https://code.qt.io/cgit/pyside/pyside-setup.git/
+Changelog, https://code.qt.io/cgit/pyside/pyside-setup.git/tree/doc/changelogs
+Tracker, https://qt-project.atlassian.net/browse/PYSIDE
+
+PySide6_Essentials 6.11.2
+License: LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only
+Homepage, https://pyside.org
+Documentation, https://doc.qt.io/qtforpython
+Repository, https://code.qt.io/cgit/pyside/pyside-setup.git/
+Changelog, https://code.qt.io/cgit/pyside/pyside-setup.git/tree/doc/changelogs
+Tracker, https://qt-project.atlassian.net/browse/PYSIDE
+
+PySide6_Addons 6.11.2
+License: LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only
+Homepage, https://pyside.org
+Documentation, https://doc.qt.io/qtforpython
+Repository, https://code.qt.io/cgit/pyside/pyside-setup.git/
+Changelog, https://code.qt.io/cgit/pyside/pyside-setup.git/tree/doc/changelogs
+Tracker, https://qt-project.atlassian.net/browse/PYSIDE
+
+shiboken6 6.11.2
+License: LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only
+Homepage, https://pyside.org
+Documentation, https://doc.qt.io/qtforpython
+Repository, https://code.qt.io/cgit/pyside/pyside-setup.git/
+Changelog, https://code.qt.io/cgit/pyside/pyside-setup.git/tree/doc/changelogs
+Tracker, https://qt-project.atlassian.net/browse/PYSIDE
+
+reportlab 5.1.0
+License: BSD license (see license.txt for details), Copyright (c) 2000-2025, ReportLab Inc.
+https://www.reportlab.com/
+
+pillow 13.0.0
+License: MIT-CMU
+Release notes, https://pillow.readthedocs.io/en/stable/releasenotes/index.html
+Changelog, https://github.com/python-pillow/Pillow/releases
+Documentation, https://pillow.readthedocs.io
+Funding, https://tidelift.com/lifter/search/pypi/pillow
+Homepage, https://python-pillow.org
+Mastodon, https://fosstodon.org/@pillow
+Security, https://pillow.readthedocs.io/en/stable/handbook/security.html
+Source, https://github.com/python-pillow/Pillow
+
+certifi 2026.10.23
+License: MPL-2.0
+Source, https://github.com/certifi/python-certifi
+https://github.com/certifi/python-certifi
+
+zeroconf 0.154.0
+License: LGPL-2.1-or-later
+Bug Tracker, https://github.com/python-zeroconf/python-zeroconf/issues
+Changelog, https://github.com/python-zeroconf/python-zeroconf/blob/master/CHANGELOG.md
+Documentation, https://python-zeroconf.readthedocs.io
+Repository, https://github.com/python-zeroconf/python-zeroconf
+
+ifaddr 0.2.0
+License: MIT
+https://github.com/pydron/ifaddr
+
+pyinstaller 6.22.3
+License: GPLv2-or-later with a special exception which allows to use PyInstaller to build and distribute non-free programs (including commercial ones)
+Homepage, https://pyinstaller.org
+Documentation, https://pyinstaller.org
+Source Code, https://github.com/pyinstaller/pyinstaller
+Release Notes, https://pyinstaller.org/en/stable/CHANGES.html
+
+cryptography 50.0.2
+License: Apache-2.0 OR BSD-3-Clause
+changelog, https://cryptography.io/en/latest/changelog/
+documentation, https://cryptography.io/
+homepage, https://github.com/pyca/cryptography
+issues, https://github.com/pyca/cryptography/issues
+source, https://github.com/pyca/cryptography/
+
+cffi 2.1.1
+License: MIT-0
+Documentation, https://cffi.readthedocs.io/
+Changelog, https://cffi.readthedocs.io/en/latest/whatsnew.html
+Download, https://github.com/python-cffi/cffi/releases
+Contact, https://groups.google.com/forum/#!forum/python-cffi
+Source Code, https://github.com/python-cffi/cffi
+Issue Tracker, https://github.com/python-cffi/cffi/issues
+
+pycparser 3.12
+License: BSD-3-Clause
+Homepage, https://github.com/eliben/pycparser
+
+Qt/PySide source: https://code.qt.io/cgit/pyside/pyside-setup.git/
+Qt source archives: https://download.qt.io/archive/qt/
+The bundled Qt/PySide libraries are dynamically linked. Their license texts are included alongside this notice.
+Source archives and library replacement instructions: https://github.com/SoloSatoshi/AxeStation-Downloads/blob/main/THIRD-PARTY.md
